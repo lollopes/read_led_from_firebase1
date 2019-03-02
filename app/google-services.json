@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034522228149",
+    "firebase_url": "https://ledtest-5ef67.firebaseio.com",
+    "project_id": "ledtest-5ef67",
+    "storage_bucket": "ledtest-5ef67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034522228149:android:8bc3eac410ee595e",
+        "android_client_info": {
+          "package_name": "com.example.lollo.read_led_from_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034522228149-sp8bg4cgq7p36p3qf9i2rcdgjr6p6qbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lollo.read_led_from_firebase",
+            "certificate_hash": "3e2a84cfaef1e1cef2382cfed92b9da84b16dc27"
+          }
+        },
+        {
+          "client_id": "1034522228149-nd2uku44h2dl8apbnpm3infqp9qp4c8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlFVg1--u9qr-WNv5dSaFbKBB1ZvkPLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034522228149-nd2uku44h2dl8apbnpm3infqp9qp4c8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
